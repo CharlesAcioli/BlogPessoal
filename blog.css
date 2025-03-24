@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baumans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --azul-escuro: #1E3A5F;
+    --preto-fosco: #1C1C1C;
+    --cinza-claro: #E0E0E0;
+    --azul-neutro: #3A6EA5;
+}
+
+nav {
+    width: 100%;
+    height: 38px;
+    background-color: var(--azul-neutro);
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    background-color: var(--azul-escuro);
+    width: 100px;
+    height: 35px;
+    margin: 0 10px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+i {
+    margin-right: 5px;
+}
+
+form {
+    background-color: var(--cinza-claro);
+    height: 94vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;\
+}
+
+form h1 {
+    font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+form p {
+    padding-left: 20px;
+    font-family: "Baumans", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    width: 700px;
+}
+
+img {
+    width: 500px;
+    margin-top: 50px;
+    border-radius: 20px 5px 20px 5px;
+}
+
+footer {
+    background-color: var(--azul-neutro);
+    text-align: center;
+}
+
+footer, footer a {
+    color: white;
+}
