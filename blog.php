@@ -16,11 +16,12 @@
 
         <form>
             <h1>Charles Acioli</h1>
+            <p>DEV FULLSTACK JUNIOR | TÉC. EM MANUTENÇÃO DE COMPUTADORES | ARTISTA</p><br>
             <p>Artista nato e amante da técnologia, resolveu focar e embarcar na área tecnológica e tornar como profissão primária, gosta de desafios, soluções matemáticas e estar sempre disposto a aprender. Uma pessoa curiosa, sempre atento as formas de soluções.<br>Buscando atualmente um estágio na área da técnologia. Possui conhecimentos em <strong>HTML, CSS, JavaScript, PHP e banco de dados</strong>. Seu interesse vai além do código, abrangendo também a análise de sistemas, automação e o futuro da tecnologia.<br>Seja desenvolvendo aplicações ou estudando as mais recentes novidades do mercado, está sempre disposto a compartilhar conhecimento e contribuir para o avanço do setor. </p>
             <img src="https://ita24horas.com.br/blog/wp-content/uploads/2017/05/90226-descubra-a-importancia-do-uso-da-tecnologia-para-seguranca-da-empresa-entregar-em-1705.jpg">
         </form>
     </body>
-    <footer>Desenvolvido por <a href="https://www.instagram.com/charles_acioli/#">Charles Acioli</a>&copy;</footer>
+    <footer>Desenvolvido por <a href="https://www.instagram.com/charles_acioli/#"><strong>Charles Acioli</strong></a>&copy;</footer>
 </html>
 
 <?php

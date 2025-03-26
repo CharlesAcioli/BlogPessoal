@@ -47,7 +47,7 @@ form {
     height: 94vh;
     display: flex;
     flex-direction: column;
-    align-items: center;\
+    align-items: center;
 }
 
 form h1 {
@@ -59,13 +59,17 @@ form h1 {
     justify-content: center;
 }
 
-form p {
+p {
     padding-left: 20px;
     font-family: "Baumans", system-ui;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
     width: 700px;
+}
+
+p:nth-child(2) {
+    font-weight: bolder;
 }
 
 img {
@@ -81,4 +85,5 @@ footer {
 
 footer, footer a {
     color: white;
+    text-decoration: none;
 }
